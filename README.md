@@ -2,13 +2,15 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on enhancing my skills in web development and contributing to open-source projects.
-- 🌱 I’m learning new technologies like React and Node.js.
-- 💬 Feel free to ask me about JavaScript, Python, or any web development-related topics!
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](your-linkedin-url)
+- 🌱 I’m learning new technologies like Python and exploring C programming.
+- 💬 Feel free to ask me about Python, C, Linux, or any programming-related topics!
+- 📫 How to reach me: [Email](mailto:m.anwar.samir@outlook.com) | [LinkedIn](your-linkedin-url)
 
 ## 🛠️ Technologies & Tools
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Frameworks**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+- **Languages**: ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+- **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Editors**: ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📂 Projects
