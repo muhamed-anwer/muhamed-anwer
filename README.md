@@ -8,7 +8,8 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages**: ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Frameworks**: ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+- **Frameworks**: ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+- **Data Science Libraries**: ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003DA5?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?style=flat-square&logo=seaborn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 - **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 - **Editors**: ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
