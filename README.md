@@ -37,7 +37,10 @@ Here are some of my notable projects in data science and machine learning:
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAnwar0&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=MohamedAnwar0&show_icons=true&theme=radical&count_private=true" alt="Stats"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAnwar0&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
