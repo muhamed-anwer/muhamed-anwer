@@ -12,28 +12,19 @@
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Languages
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="50"/> 
-<img src="https://img.shields.io/badge/-C-A8B400?style=flat&logo=c&logoColor=white" alt="C" height="50"/> 
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="50"/> <img src="https://img.shields.io/badge/-C-A8B400?style=flat&logo=c&logoColor=white" alt="C" height="50"/>
 
 ### 📚 Data Science Libraries
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="50"/> 
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="50"/> 
-<img src="https://img.shields.io/badge/-Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" height="50"/> 
-<img src="https://img.shields.io/badge/-Seaborn-00A3E0?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" height="50"/> 
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" height="50"/> <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" height="50"/> <img src="https://img.shields.io/badge/-Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white" alt="Matplotlib" height="50"/> <img src="https://img.shields.io/badge/-Seaborn-00A3E0?style=flat&logo=seaborn&logoColor=white" alt="Seaborn" height="50"/>
 
 ### 📊 Machine Learning Frameworks
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="50"/> 
-<img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" height="50"/> 
-<img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="50"/> 
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" height="50"/> <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit Learn" height="50"/> <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white" alt="Keras" height="50"/>
 
 ### 🌐 Web Frameworks
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="50"/> 
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="50"/> 
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="50"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="50"/>
 
 ### 🛠️ Tools & Platforms
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="50"/> 
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="50"/> 
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="50"/> 
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="50"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="50"/> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="50"/>
 
 ---
 
