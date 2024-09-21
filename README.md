@@ -1,10 +1,10 @@
 # 🌟 Hello there! I'm **Mohamed Anwar** 👋
 
 ## 👨‍💻 About Me
-✨ A passionate developer and lifelong learner who loves to explore new technologies and solve real-world problems!  
-🔭 Currently diving into **web development** and contributing to exciting **open-source projects**.  
-🌱 On a journey to master **Python** and explore the depths of **C programming**.  
-💬 Let's chat about **Python**, **C**, **Linux**, or anything tech-related!  
+✨ Passionate data scientist and machine learning enthusiast!  
+🔭 Currently diving deep into the world of **data analysis**, **machine learning**, and **AI**.  
+🌱 Exploring advanced techniques in **Python** and **C**, and constantly learning new tools and technologies.  
+💬 Let's connect to discuss insights, trends, and innovations in data science!  
 📫 Reach me at: [m.anwar.samir@outlook.com](mailto:m.anwar.samir@outlook.com) | [LinkedIn](your-linkedin-url)
 
 ---
@@ -12,68 +12,23 @@
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Languages
-![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="40"/> 
+<img src="https://img.shields.io/badge/-C-A8B400?style=for-the-badge&logo=c&logoColor=white" alt="C" height="40"/> 
 
-### 🖥️ Frameworks
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### 📚 Data Science Libraries
+<img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="40"/> 
+<img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="40"/> 
+<img src="https://img.shields.io/badge/-Matplotlib-003DA5?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" height="40"/> 
+<img src="https://img.shields.io/badge/-Seaborn-00A3E0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" height="40"/> 
 
-### 📊 Data Science Libraries
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003DA5?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?style=flat-square&logo=seaborn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+### 📊 Machine Learning Frameworks
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/> 
+<img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" height="40"/> 
+<img src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" height="40"/> 
 
-### 🐧 Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🌐 Web Frameworks
+<img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="40"/> 
+<img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40"/> 
 
-### ✍️ Editors
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Projects
-Here are some of my notable projects:
-- **[Your Project 1](link-to-project-1)**: A brief description of what this project does and its purpose.
-- **[Your Project 2](link-to-project-2)**: A brief description of this project and what technologies were used.
-- **[Your Project 3](link-to-project-3)**: A brief description of this project highlighting its features.
-
----
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAnwar0&show_icons=true&theme=radical)
-
----
-
-## ⚡ Fun Fact
-I love experimenting with new technologies! When I'm not coding, you might find me contributing to community projects or exploring the latest trends in tech. 🚀  
-**Let's build something amazing together!**
-
----
-
-✨ Thank you for visiting my profile! 🌍
-# Hello there! I'm Mohamed Anwar 👋
-
-## 👨‍💻 About Me
-- 🔭 I’m currently working on enhancing my skills in web development and contributing to open-source projects.
-- 🌱 I’m learning new technologies like Python and exploring C programming.
-- 💬 Feel free to ask me about Python, C, Linux, or any programming-related topics!
-- 📫 How to reach me: [Email](mailto:m.anwar.samir@outlook.com) | [LinkedIn](your-linkedin-url)
-
-## 🛠️ Technologies & Tools
-- **Languages**: ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Frameworks**: ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-- **Data Science Libraries**: ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003DA5?style=flat-square&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?style=flat-square&logo=seaborn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-- **Operating Systems**: ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- **Editors**: ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-## 📂 Projects
-- **[Your Project 1](link-to-project-1)**: Brief description of what this project does.
-- **[Your Project 2](link-to-project-2)**: Brief description of this project.
-- **[Your Project 3](link-to-project-3)**: Brief description of this project.
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAnwar0&show_icons=true&theme=radical)
-
-## ⚡ Fun Fact
-I love exploring new technologies and building projects that solve real-world problems!
+### 🛠️ Tools & Platforms
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&lo
