@@ -17,28 +17,28 @@
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Languages
-<i class="fab fa-python" style="font-size: 30px; color: #3776AB;"></i> 
-<i class="fab fa-c" style="font-size: 30px; color: #A8B400;"></i> 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/-C-A8B400?style=flat&logo=c&logoColor=white)
 
 ### 📚 Data Science Libraries
-<i class="fab fa-pandas" style="font-size: 30px; color: #150458;"></i> 
-<i class="fab fa-numpy" style="font-size: 30px; color: #013243;"></i> 
-<i class="fab fa-matplotlib" style="font-size: 30px; color: #003DA5;"></i> 
-<i class="fab fa-seaborn" style="font-size: 30px; color: #00A3E0;"></i> 
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?style=flat&logo=seaborn&logoColor=white)
 
 ### 📊 Machine Learning Frameworks
-<i class="fab fa-tensorflow" style="font-size: 30px; color: #FF6F20;"></i> 
-<i class="fab fa-scikit-learn" style="font-size: 30px; color: #F7931E;"></i> 
-<i class="fab fa-keras" style="font-size: 30px; color: #D00000;"></i> 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white) 
+![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
 
 ### 🌐 Web Frameworks
-<i class="fab fa-django" style="font-size: 30px; color: #092E20;"></i> 
-<i class="fab fa-flask" style="font-size: 30px; color: #000000;"></i> 
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) 
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-<i class="fab fa-git" style="font-size: 30px; color: #F05032;"></i> 
-<i class="fab fa-docker" style="font-size: 30px; color: #2496ED;"></i> 
-<i class="fab fa-vscode" style="font-size: 30px; color: #007ACC;"></i> 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
