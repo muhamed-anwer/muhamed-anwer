@@ -31,15 +31,6 @@
 ### 🛠️ Tools & Platforms
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="50"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" height="50"/> <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" height="50"/>
 
----
-
-## 📂 Projects
-Here are some of my notable projects in data science and machine learning:
-- **[Project Title 1](link-to-project-1)**: A brief description of the project, the problem it solves, and the techniques used (e.g., regression, classification).
-- **[Project Title 2](link-to-project-2)**: A brief description focusing on data visualization and insights derived.
-- **[Project Title 3](link-to-project-3)**: Highlighting a specific machine learning model or algorithm used.
-
----
 
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: center; gap: 20px;">
