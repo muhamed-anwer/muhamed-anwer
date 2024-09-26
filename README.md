@@ -21,7 +21,7 @@
 ### 📚 Data Science Libraries
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,scipy,statsmodels,jupyter" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,scipy" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 ### 🛠️ Tools & Platforms
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vim,linux" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vim,linux, jupyter" />
   </a>
 </p>
 
