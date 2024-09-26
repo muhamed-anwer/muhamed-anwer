@@ -42,7 +42,7 @@
 ### 🛠️ Tools & Platforms
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vim,linux, jupyter" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vim,linux,jupyter" />
   </a>
 </p>
 
