@@ -17,7 +17,7 @@
 
 ### 📚 Data Science Libraries
 ![Pandas](https://skillicons.dev/icons?i=pandas) 
-![NumPy](https://skillicons.dev/icons?i=numpy) 
+![NumPy](https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f) 
 ![Matplotlib](https://skillicons.dev/icons?i=matplotlib) 
 ![Seaborn](https://skillicons.dev/icons?i=seaborn)
 
@@ -31,8 +31,10 @@
 ![Flask](https://skillicons.dev/icons?i=flask)
 
 ### 🛠️ Tools & Platforms
+![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git) 
 ![Docker](https://skillicons.dev/icons?i=docker) 
+![Vim](https://skillicons.dev/icons?i=vim) 
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ---
