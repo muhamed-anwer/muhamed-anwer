@@ -12,33 +12,39 @@
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Languages
-![Python](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Python.svg) 
-![C](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/C.svg)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,c" />
+  </a>
+</p>
 
 ### 📚 Data Science Libraries
-![Pandas](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Pandas.svg)
-![NumPy](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/NumPy.svg)
-![Matplotlib](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Matplotlib.svg)
-![Seaborn](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Seaborn.svg)
-![SciPy](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/SciPy.svg)
-![StatsModels](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/StatsModels.svg)
-![Jupyter](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Jupyter.svg)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn,scipy,statsmodels,jupyter" />
+  </a>
+</p>
 
 ### 📊 Machine Learning Frameworks
-![TensorFlow](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/TensorFlow.svg)
-![Scikit-Learn](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Scikit-Learn.svg)
-![Keras](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Keras.svg)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,scikit-learn,keras" />
+  </a>
+</p>
 
 ### 🌐 Web Frameworks
-![Django](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Django.svg)
-![Flask](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Flask.svg)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=django,flask" />
+  </a>
+</p>
 
 ### 🛠️ Tools & Platforms
-![Git](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Git.svg)
-![Docker](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Docker.svg)
-![VS Code](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/VisualStudioCode.svg)
-![Vim](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Vim.svg)
-![Linux](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Linux.svg)
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vim,linux" />
+  </a>
+</p>
 
 ---
 
