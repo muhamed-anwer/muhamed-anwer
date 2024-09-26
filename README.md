@@ -13,8 +13,8 @@
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/-C-A8B400?style=flat&logo=c&logoColor=white)
+![Python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png) 
+![C](https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png)
 
 ### 📚 Data Science Libraries
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
