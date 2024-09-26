@@ -12,33 +12,33 @@
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Languages
-![Python](https://skillicons.dev/icons?i=python) 
-![C](https://skillicons.dev/icons?i=c)
+![Python](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Python.svg) 
+![C](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/C.svg)
 
 ### 📚 Data Science Libraries
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?style=flat&logo=seaborn&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![StatsModels](https://img.shields.io/badge/-StatsModels-3C3E50?style=flat&logo=statsmodels&logoColor=white)
+![Pandas](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Pandas.svg)
+![NumPy](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/NumPy.svg)
+![Matplotlib](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Matplotlib.svg)
+![Seaborn](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Seaborn.svg)
+![SciPy](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/SciPy.svg)
+![StatsModels](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/StatsModels.svg)
+![Jupyter](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Jupyter.svg)
 
 ### 📊 Machine Learning Frameworks
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow) 
-![Scikit Learn](https://skillicons.dev/icons?i=scikit) 
-![Keras](https://skillicons.dev/icons?i=keras)
+![TensorFlow](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/TensorFlow.svg)
+![Scikit-Learn](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Scikit-Learn.svg)
+![Keras](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Keras.svg)
 
 ### 🌐 Web Frameworks
-![Django](https://skillicons.dev/icons?i=django) 
-![Flask](https://skillicons.dev/icons?i=flask)
+![Django](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Django.svg)
+![Flask](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Flask.svg)
 
 ### 🛠️ Tools & Platforms
-![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git) 
-![Docker](https://skillicons.dev/icons?i=docker) 
-![Vim](https://skillicons.dev/icons?i=vim) 
-![VS Code](https://skillicons.dev/icons?i=vscode)
+![Git](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Git.svg)
+![Docker](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Docker.svg)
+![VS Code](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/VisualStudioCode.svg)
+![Vim](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Vim.svg)
+![Linux](https://raw.githubusercontent.com/LelouchFR/skill-icons/master/icons/Linux.svg)
 
 ---
 
