@@ -16,10 +16,13 @@
 ![C](https://skillicons.dev/icons?i=c)
 
 ### 📚 Data Science Libraries
-![Pandas](https://skillicons.dev/icons?i=pandas) 
-![NumPy](https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f) 
-![Matplotlib](https://skillicons.dev/icons?i=matplotlib) 
-![Seaborn](https://skillicons.dev/icons?i=seaborn)
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-00A3E0?style=flat&logo=seaborn&logoColor=white)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![StatsModels](https://img.shields.io/badge/-StatsModels-3C3E50?style=flat&logo=statsmodels&logoColor=white)
 
 ### 📊 Machine Learning Frameworks
 ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) 
